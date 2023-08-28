@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{38DA17D9-8F2C-4A2E-AB31-D387DC18976A}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SignalRServerExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRServerExample/Program.cs">
+    <Files>
+      <File FileName="SignalRServerExample/Program.cs" Line="11" Column="63" />
+      <File FileName="SignalRServerExample/Hubs/MyHub.cs" />
+      <File FileName="SignalRServerExample/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRServerExample" expanded="True">
+            <Node name="SignalRServerExample" expanded="True">
+              <Node name="Hubs" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
